@@ -1,0 +1,20 @@
+{
+  "name": "oznft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.0.1",
+    "@truffle/hdwallet-provider": "^1.0.35"
+  },
+  "dependencies": {
+    "truffle": "^5.1.28",
+    "dotenv": "^8.2.0"
+  }
+}
