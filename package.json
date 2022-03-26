@@ -12,7 +12,7 @@
   "devDependencies": {
     "@openzeppelin/contracts": "^3.0.1",
     "@truffle/hdwallet-provider": "^1.0.35",
-    "minimist": ">=0.2.1"
+    "minimist": ">=1.2.6"
   },
   "dependencies": {
     "truffle": "^5.1.28",
